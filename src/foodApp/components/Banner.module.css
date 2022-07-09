@@ -1,0 +1,6 @@
+.banner{
+    /* background-image: url("../assets/foods.jpg"); */
+    height: 350px;
+    background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url("../assets/foods.jpg");
+    background-size:cover;
+}
